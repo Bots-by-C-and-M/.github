@@ -3,7 +3,7 @@
 <!-- Twitter, Discord, Twitch, and Youtube Logo -->
 <br />
 <div align="center">
-  <img src="images/bot.png" alt="Logo" width="200" height="200">
+  <img src="https://github.com/Bots-by-C-and-M/.github/blob/main/profile/images/bot.png" alt="Logo" width="200" height="200">
 
 
 <h3 align="center">Bots</h3>
