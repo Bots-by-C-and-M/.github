@@ -9,7 +9,7 @@
 <h3 align="center">Bots</h3>
 
   <p align="center">
-    Creating bots to do random tasks and have cool features. These bots shouldn't be just fun and random, but I wanted to also make sure that these bots will report some for of metrics to the mods, admins, etc.
+    Creating bots to do random tasks and have cool features. These bots shouldn't be just fun and random, we wanted to also make sure that these bots will report some for of metrics to the mods, admins, etc.
 </br> 
 
 
