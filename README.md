@@ -1,5 +1,3 @@
-# Bots-by-C-and-M
-# Bots
 <div id="top"></div>
 
 <!-- Twitter, Discord, Twitch, and Youtube Logo -->
