@@ -62,12 +62,12 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/mikayla-kosmala/bots.svg?style=for-the-badge
-[contributors-url]: https://github.com/Airbnb-Build-Week/Project/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/mikayla-kosmala/bots.svg?style=for-the-badge
-[forks-url]: https://github.com/Airbnb-Build-Week/Project/network/members
-[stars-shield]: https://img.shields.io/github/stars/mikayla-kosmala/bots.svg?style=for-the-badge
-[stars-url]: https://github.com/Airbnb-Build-Week/Project/stargazers
-[issues-shield]: https://img.shields.io/github/issues/mikayla-kosmala/bots.svg?style=for-the-badge
-[issues-url]: https://github.com/mikayla-kosmala/code-signal-solutions/issues
-[last-commit-shield]: https://img.shields.io/github/last-commit/mikayla-kosmala/bots.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/Bots-by-C-and-M/Discord.svg?style=for-the-badge
+[contributors-url]: https://github.com/Bots-by-C-and-M/Discord/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Bots-by-C-and-M/Discord.svg?style=for-the-badge
+[forks-url]: https://github.com/Bots-by-C-and-M/Discord/network/members
+[stars-shield]: https://img.shields.io/github/stars/Bots-by-C-and-M/Discord.svg?style=for-the-badge
+[stars-url]: https://github.com/Bots-by-C-and-M/Discord/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Bots-by-C-and-M/Discord.svg?style=for-the-badge
+[issues-url]: https://github.com/Bots-by-C-and-M/Discord/issues
+[last-commit-shield]: https://img.shields.io/github/last-commit/Bots-by-C-and-M/Discord.svg?style=for-the-badge
