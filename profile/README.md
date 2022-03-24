@@ -10,23 +10,23 @@
 
   <p align="center">
     Creating bots to do random tasks and have cool features. These bots shouldn't be just fun and random, we wanted to also make sure that these bots will report some for of metrics to the mods, admins, etc.
-</br> 
+
+  </p>
 
 
+<!-- ABOUT THE REPO -->
+<h2 align="left">About The Organization</h2>
+<p align="center">
+  <strong>Discord Repo:</strong>
+  </br> 
+  
+  
 <!-- PROJECT SHIELDS -->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 ![Last Commit][last-commit-shield]
-<!--[![LinkedIn][linkedin-shield]][linkedin-url]-->
-  </p>
-
-
-<!-- ABOUT THE REPO -->
-<h2 align="left">About The Repository</h2>
-<p align="left">
-  
 </p>
 
 <h3 align="left">Other things needed to take into consideration</h3>
